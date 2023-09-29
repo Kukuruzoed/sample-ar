@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: aed687919104da048911e789879cea66
+  m_SerializeEntries:
+  - m_GUID: 224e87d3b0671094296d6d40e9d93b7f
+    m_Address: Assets/Resources_moved/hcap/out.mp4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 333b31d8efbcd5f4bb5a9fa3442046dd
+    m_Address: Assets/Resources_moved/hcap/out.hcap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5753cc27cefe764fb86261c8f50da0d
+    m_Address: Assets/Resources_moved/hcap/out_0.txt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9707e5e931a892f4a9607c0632a43231
+    m_Address: Assets/Resources_moved/hcap/out_1.txt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38312225d9b6d9f4284adc6c53fb274b
+    m_Address: Assets/Resources_moved/hcap/volumetric_sample.mp4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fbd8e3cbe3bd9cf4fa7ee3f2647c9325
+    m_Address: Assets/Resources_moved/hcap/volumetric_sample.hcap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 74d0ef4f3a64de84b9d9790c9568ea57
+    m_Address: Assets/Resources_moved/hcap/volumetric_sample_0.txt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ccbe4cd4e03bcb442a87c6ecc8e31722
+    m_Address: Assets/Resources_moved/hcap/volumetric_sample_1.txt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 170d77fb6de72574e9c3de63c3144abe
+    m_Address: Assets/New Material.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c27199f015f27dd4997ba3997b8d6350, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7f1b03471e162854fa939ce9c574da6f, type: 2}
+    - {fileID: 11400000, guid: 0f8b746635bbec8419056ba54b4cc174, type: 2}
